@@ -4,6 +4,6 @@
     "Name": "Tag plugin template",
     "Description": "Sample tag plugin, modify it with your own implementation.",
     "Type": "TagSource",
-    "AssemblyName": "TagPlugin.dll",
+    "AssemblyName": "TagPlugins.Core",
     "MinHostVersion": "4.5"
 }
